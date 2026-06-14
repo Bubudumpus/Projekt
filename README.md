@@ -12,11 +12,11 @@ Do wykonania projektu użyłem silnika Unity oraz języka C#. Interfejs gry zost
 
 W projekcie zastosowałem następujące funkcje:
 
--wyświetlanie informacji o aplikacji,
--losowanie lub zmienianie kolejnych aplikacji do sprawdzenia,
--sprawdzanie poprawności decyzji gracza,
--naliczanie punktów,
--zmniejszanie poziomu bezpieczeństwa systemu po błędnych decyzjach,
+### wyświetlanie informacji o aplikacji,
+### losowanie lub zmienianie kolejnych aplikacji do sprawdzenia,
+### sprawdzanie poprawności decyzji gracza,
+### naliczanie punktów,
+### zmniejszanie poziomu bezpieczeństwa systemu po błędnych decyzjach,
 
 # Krótkie omówienie efektów pracy
 
